@@ -7,4 +7,4 @@ Tensor factorization is a useful technique for capturing the high-order interact
 3. The dataset of this demo can be downloaded in https://drive.google.com/drive/folders/1Q-yjBoRHQ4N0Um1IJcIf_xMQINLfGxUg?usp=sharing
 
 # Reference:
-M. Zhou, Y. Liu, Z. Long, L. Chen, C. Zhu, Tensor rank learning in CP decomposition via convolutional neural network, Signal Processing: Image Communication (2018), https://doi.org/10.1016/j.image.2018.03.017. online available at: https://www.sciencedirect.com/science/article/pii/S0923596518302741
+M. Zhou, Y. Liu, Z. Long, L. Chen, C. Zhu, Tensor rank learning in CP decomposition via convolutional neural network, Signal Processing: Image Communication, 2018, DOI: doi.org/10.1016/j.image.2018.03.017. online available at: https://www.sciencedirect.com/science/article/pii/S0923596518302741
